@@ -1,0 +1,2 @@
+/checkpoints/kasthuri/*pt filter=lfs diff=lfs merge=lfs -text
+/checkpoints/lucchi/*pt filter=lfs diff=lfs merge=lfs -text
