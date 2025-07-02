@@ -1,6 +1,6 @@
 [submodule "vvc_roi_based"]
-	path = vvc_roi_based
-	url = https://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@github.com/DSNicolau/VVC-ROI-Based.git
+    path = vvc_roi_based
+    url = git@github.com:DSNicolau/VVC-ROI-Based.git
 [submodule "hevc_roi_based"]
 	path = hevc_roi_based
-	url = https://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@github.com/DSNicolau/HEVC-ROI-Based.git
+	url = git@github.com/DSNicolau/HEVC-ROI-Based.git
